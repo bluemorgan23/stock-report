@@ -1,0 +1,11 @@
+/Users/blue/Projects/NSS/workspace/csharp/exercises/stock-report/bin/Debug/netcoreapp2.2/stock-report.deps.json
+/Users/blue/Projects/NSS/workspace/csharp/exercises/stock-report/bin/Debug/netcoreapp2.2/stock-report.runtimeconfig.json
+/Users/blue/Projects/NSS/workspace/csharp/exercises/stock-report/bin/Debug/netcoreapp2.2/stock-report.runtimeconfig.dev.json
+/Users/blue/Projects/NSS/workspace/csharp/exercises/stock-report/bin/Debug/netcoreapp2.2/stock-report.dll
+/Users/blue/Projects/NSS/workspace/csharp/exercises/stock-report/bin/Debug/netcoreapp2.2/stock-report.pdb
+/Users/blue/Projects/NSS/workspace/csharp/exercises/stock-report/obj/Debug/netcoreapp2.2/stock-report.csprojAssemblyReference.cache
+/Users/blue/Projects/NSS/workspace/csharp/exercises/stock-report/obj/Debug/netcoreapp2.2/stock-report.csproj.CoreCompileInputs.cache
+/Users/blue/Projects/NSS/workspace/csharp/exercises/stock-report/obj/Debug/netcoreapp2.2/stock-report.AssemblyInfoInputs.cache
+/Users/blue/Projects/NSS/workspace/csharp/exercises/stock-report/obj/Debug/netcoreapp2.2/stock-report.AssemblyInfo.cs
+/Users/blue/Projects/NSS/workspace/csharp/exercises/stock-report/obj/Debug/netcoreapp2.2/stock-report.dll
+/Users/blue/Projects/NSS/workspace/csharp/exercises/stock-report/obj/Debug/netcoreapp2.2/stock-report.pdb
